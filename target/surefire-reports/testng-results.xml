@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-03T02:05:10 EST" name="Surefire suite" finished-at="2022-02-03T02:05:10 EST" duration-ms="224">
+    <groups>
+    </groups>
+    <test started-at="2022-02-03T02:05:10 EST" name="Surefire test" finished-at="2022-02-03T02:05:10 EST" duration-ms="224">
+      <class name="com.techbee.registrationTest.CustomerTest">
+        <test-method signature="testSetEmailAdressWrong()" started-at="2022-02-03T02:05:10 EST" name="testSetEmailAdressWrong" finished-at="2022-02-03T02:05:10 EST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetEmailAdressWrong -->
+        <test-method signature="testGetAge12()" started-at="2022-02-03T02:05:10 EST" name="testGetAge12" finished-at="2022-02-03T02:05:10 EST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAge12 -->
+        <test-method signature="testGetFirstName()" started-at="2022-02-03T02:05:10 EST" name="testGetFirstName" finished-at="2022-02-03T02:05:10 EST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetFirstName -->
+        <test-method signature="testGetAge20()" started-at="2022-02-03T02:05:10 EST" name="testGetAge20" finished-at="2022-02-03T02:05:10 EST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAge20 -->
+        <test-method signature="testSetEmailAdress()" started-at="2022-02-03T02:05:10 EST" name="testSetEmailAdress" finished-at="2022-02-03T02:05:10 EST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetEmailAdress -->
+      </class> <!-- com.techbee.registrationTest.CustomerTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

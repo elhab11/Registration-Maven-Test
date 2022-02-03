@@ -1,0 +1,4 @@
+com\techbee\registration\Customer.class
+com\techbee\registration\CustomersDatabase.class
+com\techbee\registration\Dao.class
+com\techbee\registration\main.class
